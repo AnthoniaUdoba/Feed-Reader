@@ -2,6 +2,7 @@
 
 This project demonstrates browser based testing of a web-based application that reads RSS feeds.
 The project starter code was provided by Udacity.
+[Check it out!](https://udacity-feedreader.netlify.app/)
 
 ## Running the Application
 
